@@ -1,0 +1,211 @@
+body			{	font-family: verdana, arial, sans-serif;
+					font-size: 1em;
+					background-image:url(img/backgroundgradient.jpg);
+					background-repeat: repeat-x;
+					
+					/*background: -webkit-linear-gradient(#2C0000, #380000); /* For Safari 5.1 to 6.0 */
+					/*background: -o-linear-gradient(#2C0000, #380000); /* For Opera 11.1 to 12.0 */
+					/*background: -moz-linear-gradient(#2C0000, #380000); /* For Firefox 3.6 to 15 */
+					/*background: linear-gradient(#2C0000, #380000); /* Standard syntax */
+					
+					margin: auto;}
+				
+header			{	background: #FFF;
+					padding: 10px;
+					height: 100px;
+					width: auto;}
+
+header img		{	border: 0;}
+
+
+nav				{	float: right;
+					text-align: right;}
+					
+/*nav img			{	padding-left: 4px;}*/
+		
+nav ul			{	list-style-type:none;
+					padding-top: 17px;
+					font-family: KITCHENPOLICE, cambria, verdana;}
+					
+nav ul li			{	display:inline;}
+
+nav ul li a:link	{	color:#8C1C1C;
+					font-size:1.7em;
+					text-decoration:none;
+					padding:10px 0px 0px 25px;
+					line-height:0;}
+					
+nav ul li a:visited	{	color:#8C1C1C;}
+					
+nav ul li a:hover	{	color:#8C1C1C;
+					text-decoration:none;
+					
+					/* CSS 3*/
+					text-shadow: 1px 1px 2px #380000;}				
+
+h1				{	font-family: verdana, cambria, sans-serif;
+					color: #2C0000;
+					text-shadow: 1px 1px 1px #FF0000;}
+					
+h4				{	color: #DF0000;}
+
+footer			{	height: 181px;
+					width: auto;
+					background: #2C0000;
+					color: #FFF;
+					padding: 20px;
+					padding-bottom: 5px;
+					padding-top: 25px;
+					padding-left:50px;
+					margin: auto;}
+
+footer img			{	border: 0;}
+
+					
+footer ul			{	list-style-image:url(img/icon.gif);
+					/*text-align: center;*/}
+					
+footer a:link			{	color:#FFF;
+						text-decoration:none;}					
+footer a:visited		{	color:#FFF;
+						text-decoration:none;}
+footer a:hover		{	color:#FBAF3F;
+						text-decoration:underline;}
+
+
+a:link			{	color:#FF4708;
+					text-decoration:none;}
+a:visited		{	color:#FF4708;
+					text-decoration:none;}					
+a:hover			{	color:#FBAF3F;
+					text-decoration:none;}
+					
+
+#wrapper	{	width: 1000px;
+				margin: auto;
+				height: auto;
+				border: 1px solid #f05a28;
+				background: #FFF;}
+				
+#content 	{	background: #FFF;
+				width:auto;
+				color: #000;
+				font-family: verdana, arial, sans-serif;
+				font-size: 1em;
+				padding:10px 50px 20px 50px;
+				min-height: 730px;}
+
+				
+
+
+				
+				
+				
+				
+
+#linkscolumnleft	{	float:left;
+						height:150px;
+						width:30%;}
+						
+#linkscolumnright	{	
+						float: right;
+						height:150px;
+						width:30%;}
+						
+#linkscolumnmid		{	height:150px;
+						width:30%;
+						margin-left: 35%;}
+					
+						
+						
+#musicleft			{	width: 49%;
+						float: left;
+						font-size: .8em;
+						height: auto;
+						padding-right: 5px;}
+
+#musicright			{	width: 50%;
+						float: right;
+						font-size: .8em;
+						height: auto;}
+
+						
+#musicbottom		{	width: 100%;
+						font-size: .8em;
+						height: auto;
+						padding-bottom:20px;}
+						
+#music				{	height: 1100px;
+						width: auto;}
+
+						
+#bookingbox			{	/* CSS 3 */
+						box-shadow: 7px 7px #2C0000;
+						
+						
+						border: 1px #2C0000 solid;
+						width: 590px;
+						margin-top: 25px;
+						position:relative;}
+
+
+.fadein 				{ 	position:relative; 
+						width:1000px; 
+						height:435px;}
+
+.fadein img 			{ 	position:absolute; 
+						left:0; 
+						top:0; }						
+
+.center				{	text-align:center;}
+						
+.small				{	font-size: .8em;}
+
+.createshadow		{	-webkit-box-shadow:3px 3px 3px #FBAF3F;	
+						-moz-box-shadow:3px 3px 3px #FBAF3F;
+						box-shadow:3px 3px 3px #FBAF3F;}
+					
+.clear				{	clear: both;}
+
+.floatleft			{	float: left;}
+
+.floatright			{	float: right;}
+
+.heading			{	font-weight: bold;}
+
+.heading1			{	font-family: verdana, Cambria, sans-serif;
+						color: #FFF;
+						font-size: 1.3em;
+						font-weight: bold;}
+
+.divider			{	background: #FF4708;
+						height: 10px;}
+					
+.copyright			{	font-size: .6em;
+						text-align: center;
+						background: #2C0000;
+						color: #FFF;
+						padding-right: 15px;
+						/*padding-top: 20px;*/
+						padding-bottom: 2px;}
+
+
+
+
+/* CSS 3 */
+						
+@font-face
+{
+font-family: 'KITCHENPOLICE'; 
+src: url('fonts/KITCHENPOLICE.ttf');
+font-weight: normal;
+font-style: normal;
+}
+
+@font-face
+{
+font-family: 'Anonymous'; 
+src: url('fonts/Anonymous.ttf');
+font-weight: normal;
+font-style: normal;
+}

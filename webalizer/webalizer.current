@@ -1,0 +1,853 @@
+# Webalizer V2.20-01 Incremental Data - 06/07/2016 20:07:12
+2016 6 7 20 7 12
+622 538 148 18 32 71 37653677 122 114 0
+17 1 36 1 7
+167 154 12154744 31 24 24
+95 81 5439254 30 19 18
+83 70 4576145 27 23 20
+41 34 1441957 25 14 13
+153 135 9876204 31 26 23
+26 18 805827 19 5 5
+57 46 3359546 17 11 11
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+25 23 1011667 7
+21 19 1345028 4
+3 2 61578 2
+11 6 103097 7
+7 3 148906 1
+7 4 68398 5
+8 5 168877 2
+27 26 1773918 6
+26 23 1654876 5
+26 22 1685831 6
+22 11 468201 7
+44 41 3292615 4
+19 19 1385807 4
+32 27 1845637 7
+79 76 6146757 9
+10 9 360642 3
+58 55 4302706 8
+35 31 1964175 9
+23 22 1666543 2
+20 19 1310950 4
+6 2 63069 1
+45 41 3201835 7
+36 28 1931466 6
+32 24 1691098 6
+0
+0
+0
+538
+0
+0
+0
+0
+0
+2
+0
+0
+0
+0
+16
+0
+0
+0
+0
+0
+0
+66
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/
+0 118 0 1836765 111 21
+/assets/img/offering.jpg
+0 20 0 2879136 0 0
+/assets/img/highres.jpg
+0 26 0 3010225 0 0
+/assets/img/Fresh_banana.png
+0 56 0 2504712 0 0
+/assets/img/rustc4.jpg
+0 18 0 1415692 0 0
+/assets/img/Compass.png
+0 23 0 4353162 0 0
+/assets/img/favicon.ico
+0 4 0 4600 0 0
+/assets/js/bootstrap.js
+0 30 0 1753740 0 0
+/assets/img/robert.png
+0 22 0 5653494 0 0
+/assets/css/main.css
+0 36 0 106344 0 0
+/assets/js/jquery.min.js
+0 29 0 2686241 0 0
+/assets/img/logo1.png
+0 22 0 780230 0 0
+/assets/js/smoothscroll.js
+0 30 0 134220 0 0
+/assets/img/deer.jpg
+0 22 0 2535808 0 0
+/assets/img/karl.jpg
+0 20 0 1660201 0 0
+/assets/css/bootstrap.css
+0 37 0 4442997 0 0
+/assets/img/rustarena.jpg
+0 18 0 1491354 0 0
+/assets/img/Item_Hatchet.png
+0 25 0 371954 0 0
+# End Of Table - urls
+# -sites- (monthly)
+5ac69f11.bb.sky.com
+0 1 1 44727 0 0
+-
+spider-5-255-250-57.yandex.com
+0 1 1 16851 1 1465283405
+/
+baiduspider-180-76-15-153.crawl.baidu.com
+0 2 1 17348 1 1465062418
+/
+crawl-66-249-69-231.googlebot.com
+0 8 7 340247 2 1464822144
+/
+crawl-66-249-75-71.googlebot.com
+0 3 2 34199 2 1465303387
+/
+host-199-216-105-224.rockyview.ab.ca
+0 1 1 44727 0 0
+-
+crawl-66-249-69-242.googlebot.com
+0 8 7 297120 3 1465020950
+/
+spider-141-8-143-187.yandex.com
+0 1 0 0 0 0
+-
+81.193.69.67
+0 17 17 1496527 1 1464885450
+/
+149.200.209.182
+0 6 6 295447 1 1464885079
+/
+baiduspider-180-76-15-13.crawl.baidu.com
+0 2 2 116916 0 0
+-
+fixed-189-208-187-189-208-87.iusacell.net
+0 1 1 44727 0 0
+-
+baiduspider-180-76-15-17.crawl.baidu.com
+0 1 0 0 1 1465145237
+/
+94-224-87-247.access.telenet.be
+0 1 1 44727 0 0
+-
+187.19.62.7
+0 17 17 1496527 1 1464791812
+/
+bl6-147-155.dsl.telepac.pt
+0 1 1 44727 0 0
+-
+178-137-166-125-broadband.kyivstar.net
+0 2 1 17348 1 1465132895
+/
+200-103-211-204.ctame210.dial.brasiltelecom.net.br
+0 17 17 1496527 1 1464800329
+/
+b115413.yse.yahoo.net
+0 4 2 18995 1 1465233166
+/
+baiduspider-180-76-15-28.crawl.baidu.com
+0 1 1 16851 1 1465114428
+/
+fulltextrobot-77-75-76-169.seznam.cz
+0 2 1 120906 0 0
+-
+bfb4e44e.virtua.com.br
+0 17 17 1496527 1 1464780429
+/
+baiduspider-180-76-15-6.crawl.baidu.com
+0 1 0 497 0 0
+-
+baiduspider-180-76-15-31.crawl.baidu.com
+0 1 1 58458 0 0
+-
+host-70.hipuu.com.py
+0 1 1 44727 0 0
+-
+202.29.178.30
+0 1 1 44727 0 0
+-
+98.126.47.242.static.krypt.com
+0 3 2 34199 1 1464916256
+/
+173.252.115.166
+0 1 1 16851 1 1465085003
+/
+5.149.254.109
+0 1 0 497 1 1464790954
+-
+2.198.205.121.broad.pt.fj.dynamic.163data.com.cn
+0 3 2 34199 1 1464873454
+/
+194.81.160.79
+0 1 1 44727 0 0
+-
+69-92-14-153.cpe.cableone.net
+0 2 2 89454 0 0
+-
+mail.earth.ac.cr
+0 14 14 1170446 1 1464917292
+/
+cm222-166-84-21.hkcable.com.hk
+0 17 17 1496527 1 1464767610
+/
+bacdcb66.virtua.com.br
+0 17 17 1496527 1 1465138224
+/
+li120-42.members.linode.com
+0 1 1 16851 1 1464880151
+/
+180.97.106.22
+0 1 1 3 1 1464908228
+/
+cpe-142-105-10-180.nyc.res.rr.com
+0 1 1 44727 0 0
+-
+crawl-66-249-69-206.googlebot.com
+0 1 0 497 0 0
+-
+baiduspider-180-76-15-134.crawl.baidu.com
+0 1 1 4474 0 0
+-
+spider-5.lipperhey.com
+0 4 3 51050 1 1465121285
+/
+fulltextrobot-77-75-78-162.seznam.cz
+0 2 0 497 0 0
+-
+host31-141-dynamic.19-87-r.retail.telecomitalia.it
+0 1 1 44727 0 0
+-
+spider-100-43-85-18.yandex.com
+0 6 1 18839 1 1464944890
+/
+cable-178-149-143-69.dynamic.sbb.rs
+0 1 1 44727 0 0
+-
+38.100.21.66
+0 3 3 139886 1 1465075045
+/
+242.198.56.190.dynamic.intelnet.net.gt
+0 12 12 962658 1 1464797806
+/
+customer-tep-106-249.megared.net.mx
+0 17 17 1496527 1 1464803683
+/
+spider-141-8-143-136.yandex.com
+0 2 2 33702 1 1464944895
+/
+188.127.121.145
+0 1 1 44727 0 0
+-
+b123a602.virtua.com.br
+0 17 17 1496527 1 1464816963
+/
+google-proxy-66-102-8-236.google.com
+0 4 4 302472 1 1465163711
+/
+194.239.215.68
+0 1 1 44727 0 0
+-
+c-76-112-237-190.hsd1.mi.comcast.net
+0 1 1 44727 0 0
+-
+1-39-56-112.live.vodafone.in
+0 1 1 44727 0 0
+-
+fulltextrobot-77-75-76-161.seznam.cz
+0 2 0 497 0 0
+-
+208.184.112.75.available
+0 5 5 278596 0 0
+-
+tor-exit-node.seas.upenn.edu
+0 1 1 16851 1 1464878214
+/
+baiduspider-180-76-15-5.crawl.baidu.com
+0 1 0 0 1 1464945765
+/
+baiduspider-180-76-15-34.crawl.baidu.com
+0 1 1 16851 1 1464816928
+/
+bd3d4d1d.virtua.com.br
+0 17 17 1496527 1 1465292892
+/
+52.f4.36a9.ip4.static.sl-reverse.com
+0 1 1 16851 1 1465128342
+/
+spider-141-8-143-161.yandex.com
+0 1 1 16851 1 1464944890
+/
+host166.181-103-214.telecom.net.ar
+0 1 1 44727 0 0
+-
+ip-ef45.d-net.kiev.ua
+0 2 1 17348 1 1465316784
+/
+crawl-66-249-69-236.googlebot.com
+0 10 7 105551 6 1465163886
+/
+77-120-185-119.dynamic-fttb.datasvit.net
+0 1 1 44727 0 0
+-
+crawl-66-249-69-247.googlebot.com
+0 8 5 175079 3 1465172422
+/
+69-216-170-69.skybeam.com
+0 2 0 994 1 1464863441
+-
+static.vnpt.vn
+0 2 2 33702 1 1464932147
+/
+bacc92f4.virtua.com.br
+0 16 16 1409148 1 1464959522
+/
+static.130.62.9.5.clients.your-server.de
+0 2 1 17348 1 1464904923
+/
+mobile-166-170-005-127.mycingular.net
+0 18 18 1497677 1 1464962985
+/
+66-87-72-225.pools.spcsdns.net
+0 1 1 44727 0 0
+-
+095-097-076-107.static.chello.nl
+0 1 1 44727 0 0
+-
+spider-141-8-143-192.yandex.com
+0 2 2 33702 2 1465283407
+/
+150-70-173-8.trendmicro.com
+0 1 1 16851 1 1465001098
+/
+173-27-7-79.client.mchsi.com
+0 19 18 1498174 1 1465138469
+/
+google-proxy-66-102-8-226.google.com
+0 3 3 366513 0 0
+-
+h229-097-175.95.ficolo.net
+0 1 1 16851 1 1464894958
+/
+baiduspider-180-76-15-151.crawl.baidu.com
+0 1 1 16851 1 1464959595
+/
+hlfxns016cw-142134090043.dhcp-dynamic.fibreop.ns.bellaliant.net
+0 1 1 44727 0 0
+-
+baiduspider-180-76-15-162.crawl.baidu.com
+0 1 0 0 1 1464800994
+/
+crawl15.exabot.com
+0 2 0 497 1 1464926756
+/
+baiduspider-180-76-15-11.crawl.baidu.com
+0 2 0 497 1 1465180467
+/
+41.207.230.34
+0 5 5 236989 1 1464865400
+/
+baiduspider-180-76-15-15.crawl.baidu.com
+0 1 1 16851 1 1465114425
+/
+ns352473.ovh.net
+0 2 2 33702 2 1465023847
+/
+ppp-58-8-60-42.revip2.asianet.co.th
+0 1 1 44727 0 0
+-
+baiduspider-180-76-15-33.crawl.baidu.com
+0 1 0 497 0 0
+-
+host52-73.promobit.ru
+0 2 1 17348 1 1464987350
+/
+85.248.227.165
+0 1 1 16851 1 1464825493
+/
+39.38.208.26
+0 1 1 44727 0 0
+-
+201-34-166-109.fnses700.ipd.brasiltelecom.net.br
+0 17 17 1496527 1 1464866095
+/
+fulltextrobot-77-75-79-11.seznam.cz
+0 2 1 120906 0 0
+-
+189-212-186-57.static.axtel.net
+0 1 1 44727 0 0
+-
+fulltextrobot-77-75-76-162.seznam.cz
+0 2 0 497 0 0
+-
+crawl-66-249-75-162.googlebot.com
+0 1 1 16851 1 1465202954
+/
+46.229.170.197
+0 1 1 16851 1 1464800771
+/
+177-21-36-67.customer.sinalbr.com.br
+0 14 14 1170446 1 1464895323
+/
+02da99ba.bb.sky.com
+0 1 1 44727 0 0
+-
+crawl-66-249-69-226.googlebot.com
+0 8 6 370441 2 1464908886
+/
+eicu.rumahoke.com
+0 1 1 16851 1 1464999516
+/
+212-83-177-193.rev.poneytelecom.eu
+0 2 1 17348 1 1465329280
+/
+184.175.250.142
+0 2 1 17348 1 1465080378
+/
+fulltextrobot-77-75-79-36.seznam.cz
+0 2 0 497 0 0
+-
+crawl-66-249-69-237.googlebot.com
+0 6 4 157731 2 1465116360
+/
+msnbot-40-77-167-26.search.msn.com
+0 1 0 497 0 0
+-
+baiduspider-180-76-15-143.crawl.baidu.com
+0 2 2 33702 2 1465062341
+/
+host-196-213-107-208.midco.net
+0 19 18 1498174 1 1464818498
+/
+baiduspider-180-76-15-154.crawl.baidu.com
+0 1 0 0 1 1464844238
+/
+244-40-185-177.eteccinformatica.com.br
+0 15 15 1325872 1 1465150327
+/
+80-62-116-50-mobile.dk.customer.tdc.net
+0 1 1 44727 0 0
+-
+ip-216-69-191-97.ip.secureserver.net
+0 2 1 17348 1 1464876270
+/
+laubervilliers-656-1-115-4.w193-248.abo.wanadoo.fr
+0 1 1 16851 1 1464912183
+/
+spider-5-255-250-89.yandex.com
+0 9 4 69889 4 1465283403
+/
+89.211.181.194
+0 1 1 44727 0 0
+-
+ns365312.ip-94-23-3.eu
+0 1 0 497 1 1464995285
+/
+baiduspider-180-76-15-18.crawl.baidu.com
+0 1 1 16851 1 1464816982
+/
+crawl-66-249-69-201.googlebot.com
+0 1 1 16851 1 1465046454
+/
+ec2-107-21-1-8.compute-1.amazonaws.com
+0 3 1 17845 1 1465122463
+/
+crawl-66-249-75-52.googlebot.com
+0 2 1 17348 1 1465300726
+/
+baiduspider-180-76-15-7.crawl.baidu.com
+0 1 0 0 1 1464951362
+/
+baiduspider-180-76-15-32.crawl.baidu.com
+0 1 0 497 0 0
+-
+spider-100-43-91-12.yandex.com
+0 5 3 51547 2 1465283401
+/
+ns517733.ip-142-4-216.net
+0 1 1 16851 1 1464743524
+/
+129.122.210.102
+0 14 14 1170446 1 1465130258
+/
+31-4-202-148.red-acceso.airtel.net
+0 1 1 44727 0 0
+-
+191-247-230-44.3g.claro.net.br
+0 5 5 236989 1 1465140666
+/
+177-9-145-37.dsl.telesp.net.br
+0 6 6 295447 1 1465152706
+/
+msnbot-65-55-210-200.search.msn.com
+0 16 16 1479676 0 0
+-
+fulltextrobot-77-75-78-161.seznam.cz
+0 4 1 121403 0 0
+-
+180.97.106.135
+0 1 1 3 1 1465010544
+/
+5ad3149d.bb.sky.com
+0 1 1 44727 0 0
+-
+msnbot-207-46-13-50.search.msn.com
+0 2 1 17348 1 1465288321
+/
+104.129.15.94.static.quadranet.com
+0 1 1 16851 1 1465006774
+/
+69.58.178.59
+0 2 1 17348 1 1465148297
+/
+adsl-98-94-193-63.ard.bellsouth.net
+0 17 17 1496527 1 1465168612
+/
+fulltextrobot-77-75-77-62.seznam.cz
+0 4 1 121403 0 0
+-
+1-39-40-7.live.vodafone.in
+0 1 1 44727 0 0
+-
+pool-173-79-31-18.washdc.fios.verizon.net
+0 1 1 44727 0 0
+-
+malta1611.startdedicated.de
+0 1 1 16851 1 1464973495
+/
+google-proxy-66-102-8-231.google.com
+0 10 10 827542 0 0
+-
+208-42-251-123.static.eng01.latisys.net
+0 1 1 16851 1 1464877784
+/
+5.90.74.94
+0 1 1 44727 0 0
+-
+fulltextrobot-77-75-76-160.seznam.cz
+0 2 0 497 0 0
+-
+208.184.112.74.available
+0 7 7 312298 2 1464999505
+/
+182.55.214.229
+0 1 1 44727 0 0
+-
+# End Of Table - sites (monthly)
+# -sites- (daily)
+spider-5-255-250-57.yandex.com
+0 1 1 16851 1 1465283405
+/
+crawl-66-249-75-71.googlebot.com
+0 3 2 34199 2 1465303387
+/
+fulltextrobot-77-75-76-169.seznam.cz
+0 2 1 120906 0 0
+-
+baiduspider-180-76-15-6.crawl.baidu.com
+0 1 0 497 0 0
+-
+cpe-142-105-10-180.nyc.res.rr.com
+0 1 1 44727 0 0
+-
+bd3d4d1d.virtua.com.br
+0 17 17 1496527 1 1465292892
+/
+ip-ef45.d-net.kiev.ua
+0 2 1 17348 1 1465316784
+/
+spider-141-8-143-192.yandex.com
+0 1 1 16851 1 1465283407
+/
+212-83-177-193.rev.poneytelecom.eu
+0 2 1 17348 1 1465329280
+/
+msnbot-40-77-167-26.search.msn.com
+0 1 0 497 0 0
+-
+spider-5-255-250-89.yandex.com
+0 1 1 16851 1 1465283403
+/
+crawl-66-249-75-52.googlebot.com
+0 2 1 17348 1 1465300726
+/
+spider-100-43-91-12.yandex.com
+0 2 1 17348 1 1465283401
+/
+msnbot-65-55-210-200.search.msn.com
+0 16 16 1479676 0 0
+-
+msnbot-207-46-13-50.search.msn.com
+0 2 1 17348 1 1465288321
+/
+1-39-40-7.live.vodafone.in
+0 1 1 44727 0 0
+-
+fulltextrobot-77-75-76-160.seznam.cz
+0 2 0 497 0 0
+-
+# End Of Table - sites (daily)
+# -referrers- 
+- (Direct Request)
+0 176
+http://www.google.com.my/search
+0 1
+https://www.google.be/
+0 1
+https://www.google.dk/
+0 2
+https://www.google.com.ua/
+0 1
+http://taco-mafia.com
+0 1
+https://www.google.com.py/
+0 1
+http://www.taco-mafia.com/
+0 4
+http://keywords-monitoring-success.com/try.php
+0 10
+https://www.google.com.sg/
+0 1
+https://www.google.co.uk/
+0 5
+http://free-video-tool.com/
+0 3
+http://taco-mafia.com/
+0 377
+https://www.google.ca/
+0 2
+https://www.google.com.pk
+0 1
+http://fix-website-errors.com/try.php
+0 6
+http://taco-mafia.com/assets/ico/favicon.png
+0 1
+http://www.bing.com
+0 2
+https://www.google.it/
+0 2
+http://taco-mafia.com/favicon.ico
+0 1
+https://www.google.com/
+0 9
+https://www.google.es/
+0 1
+https://www.google.co.in/
+0 2
+https://www.google.com.mx/
+0 2
+https://www.google.co.th/
+0 1
+http://buttons-for-website.com
+0 2
+https://www.google.rs/
+0 1
+https://www.google.nl/
+0 1
+https://www.google.pt/
+0 1
+http://www.googlebot.com/bot.html
+0 2
+https://www.google.com.ar/
+0 1
+https://www.google.ba/
+0 1
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)
+0 18
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.79 Safari/537.36
+0 1
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; GTB6.3; .NET CLR 1.0.7432.3717; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30;
+0 1
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Trident/6.0)
+0 2
+Mozilla/5.0 (Linux; Android 5.1.1; C6903 Build/14.6.A.1.236) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.89 Mobil
+0 1
+Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+0 25
+Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; .
+0 12
+Googlebot-Image/1.0
+0 1
+Mozilla/5.0 (Windows NT 6.1; rv:31.0) Gecko/20100101 Firefox/31.0
+0 2
+Mozilla/5.0 (Linux; Android 5.0.1; ALE-L21 Build/HuaweiALE-L21) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/37.
+0 1
+Mozilla/5.0 (Linux; Android 4.05; Galaxy Nexus Build/IMM76B) AppleWebKit/535.25 (KHTML, like Gecko) Chrome/17.0.1025.133 Mobi
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.99 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 6.0) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/22.0.1229.79 Safari/537.4
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36
+0 1
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.2)
+0 3
+Mozilla/5.0 (compatible; Dataprovider/6.92; +https://www.dataprovider.com/)
+0 3
+Mozilla/5.0 (compatible; YandexImages/3.0; +http://yandex.com/bots)
+0 2
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; WOW64; Trident/6.0)
+0 1
+Mozilla/5.0 (Linux; Android 5.1.1; SM-G361F Build/LMY48B; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/50.0.
+0 1
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safa
+0 3
+Mozilla/5.0 (iPad; CPU OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12F69 Safari/600.1.4
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:28.0) Gecko/20100101 Firefox/28.0 GD
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36
+0 2
+}__test|O:21:\"JDatabaseDriverMysqli\":3:{s:2:\"fc\";O:17:\"JSimplepieFactory\":0:{}s:21:\"\\0\\0\\0disconnectHandlers\";a:1:
+0 4
+Mozilla/5.0 (compatible; MJ12bot/v1.4.5; http://www.majestic12.co.uk/bot.php?+)
+0 8
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0)
+0 1
+Mozilla/5.0 (Linux; Android 4.4.2; Micromax A106 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.93 Mob
+0 1
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+0 46
+Mozilla/5.0 (Linux; Android 5.1.1; D2403 Build/18.6.A.0.182) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.89 Mobil
+0 1
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13C75 Safar
+0 1
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.36
+0 1
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mobile S
+0 11
+Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:14.0; ips-agent) Gecko/20100101 Firefox/14.0.1
+0 2
+Mozilla/5.0 (Windows NT 5.1; rv:47.0) Gecko/20100101 Firefox/47.0
+0 1
+Mozilla/5.0 (Linux; Android 5.1.1; SM-J500F Build/LMY48B; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/50.0.
+0 1
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.2; Win64; x64; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET 
+0 2
+Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.85 Safari/537.36
+0 1
+Mozilla/5.0 (compatible; Exabot/3.0; +http://www.exabot.com/go/robot)
+0 2
+Mozilla/5.0 (iPad; CPU OS 8_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12B410 Safari/600.1.4
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36
+0 122
+Mozilla/5.0 (compatible; SeznamBot/3.2; +http://napoveda.seznam.cz/en/seznambot-intro/)
+0 22
+Mozilla/5.0 (Linux; Android 5.1.1; SAMSUNG-SM-G870A Build/LMY47X) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/4.0 C
+0 18
+Mozilla/5.0 (Windows NT 5.1; rv:6.0.2) Gecko/20100101 Firefox/6.0.2
+0 5
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_3_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13F69 Saf
+0 3
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.107 Safari/537.36
+0 45
+curl/7.19.7 (x86_64-redhat-linux-gnu) libcurl/7.19.7 NSS/3.13.1.0 zlib/1.2.3 libidn/1.18 libssh2/1.2.2
+0 2
+Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+0 3
+Mozilla/5.0 (Linux; Android 4.4.4; SM-J100MU Build/KTU84P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.105 Mobile
+0 1
+Mozilla/5.0 (Linux; Android 5.1.1; SM-A710F Build/LMY47X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/50.0.
+0 1
+Mozilla/5.0 (iPad; CPU OS 8_4_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12H321 Safari/600.1
+0 1
+Mozilla/5.0 (iPad; CPU OS 9_3_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13F69 Safari/601.1
+0 2
+Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:44.0) Gecko/20100101 Firefox/44.0
+0 1
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36
+0 40
+Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.66 Safari/535.11
+0 1
+Mozilla/5.0 (iPhone; CPU iPhone OS 8_1_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12B466 Saf
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/534+ (KHTML, like Gecko) BingPreview/1.0b
+0 16
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36
+0 1
+Mozilla/5.0 (compatible; DuckDuckGo-Favicons-Bot/1.0; +http://duckduckgo.com)
+0 3
+Mozilla/5.0 (Linux; Android 5.1.1; SAMSUNG SM-N910V 4G Build/LMY47X) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/2.
+0 17
+Mozilla/5.0 (Linux; Android 4.4.2; B1-730HD Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.81 Safari/5
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+0 127
+Mozilla/5.0 (compatible; Yahoo! Slurp; http://help.yahoo.com/help/us/ysearch/slurp)
+0 4
+['Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:28.0) Gecko/20100101 Firefox/28.0 GD']
+0 1
+Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2049.0 Safari/537.36
+0 2
+Mozilla/5.0 (X11; U; Linux i586; de; rv:5.0) Gecko/20100101 Firefox/5.0
+0 1
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/534.7 (KHTML, like Gecko) Chrome/7.0.514.0 Safari/534.7
+0 1
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_3_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13E238 Sa
+0 3
+# End Of Table - agents
+# -search strings- 
+anything
+1
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames
